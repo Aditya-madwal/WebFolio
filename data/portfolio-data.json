@@ -83,7 +83,28 @@
   ],
   "experience": [
     {
-      "title": "Backend Developer",
+      "title": "Backend Developer Intern",
+      "company": "Plutonic Services",
+      "period": "Aug 2025 – Nov 2025",
+      "description": "Engineered scalable backend systems and RESTful APIs using Django REST Framework, optimized system performance through asynchronous task scheduling, and improved database efficiency across multiple production applications.",
+      "achievements": [
+        "Built 50+ RESTful API endpoints using Django REST Framework, supporting 1,000+ concurrent users across three production apps",
+        "Boosted system performance by 30% by integrating Celery and cron jobs for automated and asynchronous task pipelines",
+        "Optimized Django ORM queries and indexing, reducing API response times by 25% on critical endpoints",
+        "Improved backend reliability and throughput through continuous profiling and performance tuning"
+      ],
+      "technologies": [
+        "Django REST Framework",
+        "Celery",
+        "Cron",
+        "AWS",
+        "PostgreSQL",
+        "Python",
+        "Git"
+      ]
+    },
+    {
+      "title": "Backend Developer Intern",
       "company": "Devneural Solutions",
       "period": "Feb 2025 – Apr 2025",
       "description": "Worked on multiple full-stack projects focused on building scalable RESTful APIs using Django and Django REST Framework. Integrated cloud services and optimized application performance.",
